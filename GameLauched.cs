@@ -2045,7 +2045,7 @@ namespace MarketTown
                         }
 
                         var baseTile = table.TileLocation;
-                        int range = 10, x = 0, y = 0, dx = 0, dy = -1, max = range * 2 + 1;
+                        int range = 50, x = 0, y = 0, dx = 0, dy = -1, max = range * 2 + 1;
 
                         if (bypass) timeOfSold = 0;
 

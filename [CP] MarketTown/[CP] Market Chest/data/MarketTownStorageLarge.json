@@ -7,7 +7,7 @@
         "MT.Objects.MarketTownStorageLarge": {
           "Name": "Market Town Storage Large",
           "DisplayName": "Market Town Storage Large",
-          "Description": "Automatically restock table within 10 tiles after an item is sold.",
+          "Description": "Automatically restock table within 50 tiles after an item is sold.",
     	  "CanBePlacedOutdoors": true,
           "CanBePlacedIndoors": false,
           "Texture": "Mods/d5a1lamdtd.MarketTown.Chest/MarketTownStorageLarge",
